@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nome": "Agora é oficial: o Windows 11 está vindo",
+    "descricao": "O Windows 11 foi lançado oficialmente no início de outubro do ano passado e, desde então, o sistema operacional vem recebendo várias atualizações com recursos prometidos durante o anúncio e correções para problemas encontrados por usuários. Na apresentação do SO, a Microsoft destacou que o Windows 11 seria liberado de forma gradual para garantir uma experiência suave e estável para os usuários. Essa política fez com que vários dispositivos só recebessem a atualização em 2022.",
+    "dataPostagem": "2021/07/02"
+  },
+  {
+    "id": 2,
+    "nome": "Tim Berners-Lee vai leiloar código-fonte da web",
+    "descricao": "Um token com tecnologia blockchain que representa o código-fonte original da World Wide Web escrito pelo seu inventor, Tim Berners-Lee, foi vendido por US$ 5,4 milhões em um leilão online na Sotheby's, afirmou a casa de leilões.",
+    "dataPostagem": "2023/01/01"
+  },
+  {
+    "id": 3,
+    "nome": "Tem Firefox novo no pedaço e você vai querer migrar",
+    "descricao": "Migrar do Google Chrome para o Firefox é fácil e sem riscos! O Firefox pode importar automaticamente seus favoritos, senhas, histórico e outros dados do Chrome, sem excluir nem interferir em suas configurações. Experimente.",
+    "dataPostagem": "2021/09/17"
+  },
+  {
+    "id": 4,
+    "nome": "John McAfee, criador do antivírus McAfee, morre",
+    "descricao": "John McAfee, de 75 anos, foi encontrado morto em 23 de junho de 2021 na sua cela, na prisão Brians 2, a cerca de 40 km de Barcelona, pouco depois de um tribunal espanhol ter autorizado sua extradição para os Estados Unidos, onde era procurado por fraude fiscal.",
+    "dataPostagem": "2022/03/12"
+  }
+]
